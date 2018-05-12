@@ -1,0 +1,40 @@
+_repo: Stories-of-the-Badger-State_38137
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 38137-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Thwaites, Reuben Gold
+    alias: Thwaites, R. G. (Reuben Gold)
+    birthdate: 1853
+    deathdate: 1913
+    gutenberg_agent_id: '33780'
+    url: http://www.gutenberg.org/2009/agents/33780
+description: ''
+gutenberg_issued: '2011-11-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38137'
+  lccn: 00002899
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Wisconsin -- History'
+- !lcc 'F516'
+tableOfContents: The mound builders -- Life and manners of the indians -- The discovery
+  of Wisconsin -- Radisson and Groseilliers -- The story of Joliet and Marquette --
+  The Jesuit missionaries -- Some notable visitors to early Wisconsin -- A quarter
+  of a century of warfare -- The commerce of the forest -- In the old French days
+  -- The coming of the English -- Wisconsin in the Revolutionary War -- The rule of
+  Judge Réaume -- The British capture Prairie du Chien -- The story of the Wisconsin
+  lead mines -- The Winnebago War -- The Black Hawk War -- The story of Chequamegon
+  Bay -- Wisconsin Territory formed -- Wisconsin becomes a State -- The boundaries
+  of Wisconsin -- Life in pioneer days -- The development of roads -- The phalanx
+  at Ceresco -- A Mormon king -- The Wisconsin Bourbon -- Slave catching in Wisconsin
+  -- The story of a famous chief -- A fight for the governorship -- Our foreign-born
+  citizens -- Swept by fire -- Badgers in war time.
+title: Stories of the Badger State
+url: http://www.gutenberg.org/ebooks/38137
